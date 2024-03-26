@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(90deg, blue, aqua);
+    font-size: 20px;
+    font-family: arial;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: ;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
